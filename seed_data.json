@@ -1,0 +1,57 @@
+{
+  "issues": [
+    { 
+      "cover_url": "http://userserve-ak.last.fm/serve/126/90529887.png",
+      "title": "Uprising",
+      "artist": "Bob Marley & The Wailers"
+    },
+    { 
+      "cover_url": "http://userserve-ak.last.fm/serve/126/98255213.png", 
+      "title": "Dark side of the moon",
+      "artist": "Pink Floyd"
+    },
+    { 
+      "cover_url": "http://userserve-ak.last.fm/serve/126/90721463.png",
+      "title": "Master of reality",
+      "artist": "Black Sabbath"
+    },
+    { 
+      "cover_url": "http://userserve-ak.last.fm/serve/126/35947755.jpg",
+      "title": "Argus",
+      "artist": "Wishbone Ash"
+    },
+    { 
+      "cover_url": "http://userserve-ak.last.fm/serve/126/93160463.png",
+      "title": "Ritchie Blackmore's Rainbow",
+      "artist": "Rainbow"
+    },
+    { 
+      "cover_url": "http://userserve-ak.last.fm/serve/126/70211546.png",
+      "title": "The Wall",
+      "artist": "Pink Floyd"
+    },
+    { 
+      "cover_url": "http://userserve-ak.last.fm/serve/126/97368217.png",
+      "title": "Let it bleed",
+      "artist": "The Rolling Stones"
+    },
+    { 
+      "cover_url": "http://userserve-ak.last.fm/serve/126/50392081.png",
+      "title": "Space Ritual",
+      "artist": "Hawkwind"
+    },
+    { 
+      "cover_url": "http://userserve-ak.last.fm/serve/126/24507751.png",
+      "title": "Gorillaz",
+      "artist": "Gorillaz"
+    },
+    { "cover_url": "http://userserve-ak.last.fm/serve/126/69943766.png",
+      "title": "Electric Ladyland",
+      "artist": "Jimi Hendrix"
+    },
+    { "cover_url": "http://userserve-ak.last.fm/serve/126/68387072.png",
+      "title": "On the Sunday of Life",
+      "artist": "Porcupine Tree"
+    }
+  ]
+}

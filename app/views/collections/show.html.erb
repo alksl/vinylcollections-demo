@@ -1,0 +1,16 @@
+<div class=row">
+  <h1 class="col-sm-10"><%= @collection.name %></h1>
+  <div class="col-sm-2" style="margin-top: 21px">
+    <%= link_to "Add album", new_collection_item_path(@collection), class: "btn btn-primary"%>
+  </div>
+</div>
+
+<div class=row">
+  <div class="col-sm-12">
+  <% @collection.issues.each do |issue| %>
+    <%= image_tag(issue.cover_url, style: "margin: 10px") %>
+  <% end %>
+</div>
+</div>
+
+

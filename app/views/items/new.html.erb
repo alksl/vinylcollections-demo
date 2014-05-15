@@ -1,0 +1,12 @@
+<h1>Add Album</h1>
+
+<% @issues.each do |issue| %>
+  <%= form_for(@item) do |f| %>
+    <%= f.hidden_field :collection, value: @collection.id %>
+    <%= f.hidden_field :issue,      value: issue.id %>
+    <span onclick="this.parentNode.submit()" style="float:left; margin: 10px">
+      <%= image_tag(issue.cover_url) %>
+    </span>
+  <% end %>
+<% end %>
+

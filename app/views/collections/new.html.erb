@@ -1,0 +1,15 @@
+<h1>Create collection</h1>
+
+<%= form_for(@collection, html: { role: "form", class: "form-horizontal" }) do |f| %>
+  <div class="form-group">
+    <div class="col-sm-7">
+      <%= f.text_field :name, placeholder: "Collection name", class: "form-control" %>
+    </div>
+  </div>
+
+  <div class="form-grup">
+    <%= link_to "Cancel", root_path, class: "btn btn-default" %>
+    <%= f.submit class: "btn btn-primary" %>
+  </div>
+<% end %>
+
